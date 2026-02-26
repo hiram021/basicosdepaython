@@ -1,4 +1,4 @@
-from Enemigo import *
+from basicosdepaython.OOP.Enemigo import *
 
 class ogro(Enemigo):
     def __init__(self,puntos_energia=20, ataques=3):
